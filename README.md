@@ -2,7 +2,11 @@
 
 
 # 💫 Shakirah A:
-I am a Software Engineer <br>I function as a Technical Team Lead /Engineering Manager<br>I think in Javascript but I write other programming Languages<br>I play in the spaces of Frontend, Backend, Database, Deployments<br><br><br>I am currently looking into Blockchain (Ethereum/Polygon)<br><br>Contact: hadebusola@gmail.com
+
+### The Code-Blooded Technical Manager that bridges the gap between the Product and the Technology.
+#### I am on a mission to serve, Impact and Imrove living.
+
+I am an Engineer that cares about the product, the team and the solution <br>I function as a Technical Team Lead /Engineering Manager<br>I think in Javascript but I write other programming Languages<br>I play in the spaces of Frontend, Backend, Database, Deployments<br><br><br>I am currently looking into Blockchain (Ethereum/Polygon)<br><br>Contact: hadebusola@gmail.com
 
 
 # 💻 Tech Stack:
